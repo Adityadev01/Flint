@@ -40,6 +40,11 @@
 
 #### You can reach us by the following things:
 - Join our [**Support Server**](https://discord.gg/kfnDDwWPhW) on discord
+- Server invite invalid or channels locked ? You can contact me via my email address: adixd190@gmail.com
+
+## 6. How can we delete our entire data?
+
+### Simply join our support server and ask any in support channel to delete your entire data, We will delete your entrie data without asking any question, exceptions: user/server blacklisted IDs (discord tos / bot tos violators)
 
 ## Please note, that we can change this policy without any warning at any given time.
 #### **Last changed:**  `2022 August 6`
